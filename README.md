@@ -47,6 +47,6 @@ Tracks the number of contributors.
 
     Build status fetched dynamically from GitHub Actions:
 
-    ![Build Status](https://img.shields.io/github/actions/workflow/status/lijotech/site-weframes/azure-static-web-apps-happy-sky-007ec6f1e.yml)
+    ![Build Status](https://img.shields.io/github/actions/workflow/status/lijotech/shields-badges-repo/build.yml)
 
         
